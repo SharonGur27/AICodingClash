@@ -53,6 +53,9 @@ Always include:
 - Examples where relevant
 
 If any part of the request is ambiguous or unclear, ask clarifying questions before generating the file.
+
+- You can also get inspiration from the [Awesome Copilot Chat Modes](https://github.com/dfinke/awesome-copilot-chatmodes/blob/main/README.md) repository
+- ⚠️ **Note**: These are community contributions and not officially approved by Microsoft
 ```
 
 ✅ This ensures Copilot asks questions before generating instructions.
