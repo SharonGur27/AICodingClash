@@ -83,7 +83,10 @@ If any part of the request is ambiguous or unclear, ask clarifying questions bef
 Do NOT manually create instruction files.
 Instead:
 
-1. Start with a high-level goal in the initial prompt: (Again, tweak as you please)
+1. Memory Bank Setup
+- Follow the comprehensive instructions at: [Cline Memory Bank Documentation](https://docs.cline.bot/prompting/cline-memory-bank)
+  
+2. Start with a high-level goal in the initial prompt: (Again, tweak as you please)
 ```
 Build a Checkers game engine with:
 - Game state management
@@ -93,7 +96,7 @@ Build a Checkers game engine with:
 - Bonus feature: score tracking or UI feedback
 ```
 
-2. Use Plan mode:
+3. Use Plan mode:
    - Let Cline break down tasks.
    - Automatically generate technical specs and store them in its Memory Bank.
 
@@ -117,7 +120,6 @@ Test with sample moves:
 
 ### Step 4: Round 2 – Cline
 
-- Add high-level goal to Memory Bank via Plan mode.
 - Let Cline:
   - Generate specs internally.
   - Implement the same functions in the same order.
