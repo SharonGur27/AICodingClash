@@ -76,7 +76,7 @@ If any part of the request is ambiguous or unclear, ask clarifying questions bef
      - Performance considerations
 
 3. **bonus-feature.md**
-   - Suggest one bonus feature for the Checkers game and outline its requirements:
+   - Select one bonus feature for the Checkers game and outline its requirements:
      - Score tracking OR simple UI feedback
 
 💡 **Note**: These prompts are basic suggestions. Feel free to modify or expand them to suit your preferred style or add extra details.
